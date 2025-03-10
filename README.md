@@ -10,10 +10,6 @@ Welcome to the Movie App! This application allows you to discover, track, and ma
 - **Search Functionality**: Filter movies by title using the search bar.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 
-## Screenshots
-
-![App Screenshot](#) *Insert a screenshot of your app here.*
-
 ## Installation
 
 Follow these steps to set up the Movie App on your local machine:
